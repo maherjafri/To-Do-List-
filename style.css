@@ -35,7 +35,11 @@ img{
     height:100px
 }
 .todo-app {
-    width: 100px;
+    width: 100%;
+    min-height: 100vh;
     max-width: 540px;
-    background-color: aliceblue;
+    background-color: rgb(21, 90, 151);
+    margin: 100px auto 20px;
+    padding: 40px 30px 70px;
+    border-radius: 10px;
 }
